@@ -13,3 +13,7 @@ Une application Android permettant de découvrir et d'évaluer vos stars préfé
 
 ## demo
 
+
+
+https://github.com/user-attachments/assets/d0485307-e454-4ad3-b923-0c7e78953527
+
